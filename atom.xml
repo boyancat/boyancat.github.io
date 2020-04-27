@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boyancat.com</id>
     <title>音乐博衍，无极终兮</title>
-    <updated>2020-04-27T14:45:06.444Z</updated>
+    <updated>2020-04-27T14:46:06.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boyancat.com"/>
     <link rel="self" href="https://boyancat.com/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://boyancat.com/post/MY NEW BLOG!/">
         </link>
         <updated>2020-04-27T14:30:26.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://boyancat.com/post-images/1587998471153.jpg" alt="" loading="lazy"><br>
-👏  欢迎来到 <strong>博衍的资讯站</strong> ！<br>
+        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>博衍的资讯站</strong> ！<br>
 ✍️  <strong>boyancat--</strong> 在此记录我的生活、心情、知识、笔记、创意。<br>
 😺  一共就想到这么多√</p>
 <!-- more -->]]></content>
