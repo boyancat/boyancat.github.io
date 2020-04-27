@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boyancat.com</id>
-    <title>Gridea</title>
-    <updated>2020-04-27T14:36:53.059Z</updated>
+    <title>音乐博衍 无极终兮</title>
+    <updated>2020-04-27T14:38:48.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boyancat.com"/>
     <link rel="self" href="https://boyancat.com/atom.xml"/>
-    <subtitle>猫猫的资讯站</subtitle>
+    <subtitle>猫猫的小资讯站</subtitle>
     <logo>https://boyancat.com/images/avatar.png</logo>
     <icon>https://boyancat.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 音乐博衍 无极终兮</rights>
     <entry>
         <title type="html"><![CDATA[MY NEW BLOG!]]></title>
         <id>https://boyancat.com/post/HELLO！！/</id>
