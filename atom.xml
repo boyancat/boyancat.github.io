@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boyancat.com</id>
-    <title>音乐博衍无极终兮</title>
-    <updated>2020-05-01T16:00:06.942Z</updated>
+    <title>音乐博衍 | 无极终兮</title>
+    <updated>2020-05-01T16:01:28.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boyancat.com"/>
     <link rel="self" href="https://boyancat.com/atom.xml"/>
     <subtitle>博衍的小资讯站</subtitle>
     <logo>https://boyancat.com/images/avatar.png</logo>
     <icon>https://boyancat.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 音乐博衍无极终兮</rights>
+    <rights>All rights reserved 2020, 音乐博衍 | 无极终兮</rights>
     <entry>
         <title type="html"><![CDATA[想学很多东西，想要很多东西，也想……]]></title>
         <id>https://boyancat.com/post/xiang-xue-hen-duo-dong-xi-xiang-yao-hen-duo-dong-xi-ye-xiang/</id>
