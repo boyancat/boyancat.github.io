@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>NEW | 音乐博衍无极终兮</title>
+<title>想学很多东西，想要很多东西，也想…… | 音乐博衍无极终兮</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,25 @@
 <link rel="stylesheet" href="https://boyancat.com/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="博衍的小资讯站">
+    <meta name="description" content="######大晚上矫情一把
+
+真的 当自己真正有喜欢的人了之后会自发地愿意把自己那糟糕的作息时间以及睡前坏习惯给慢慢改掉
+在他面前会保持着幼稚的心态，有什么负面情绪不会想在他面前表露出来
+有时候满脑子都是他一个人
+有时候醋意会特别重，特别想..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -96,35 +108,44 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: NEW</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://boyancat.com/post/MY NEW BLOG!/">
-                  <h2 class="post-title">MY NEW BLOG!</h2>
-                </a>
-                <div class="post-date">
-                  2020-04-27
-                </div>
-                <div class="post-abstract">
-                  <p>👏  欢迎来到 <strong>博衍的资讯站</strong> ！<br>
-✍️  <strong>boyancat--</strong> 第一篇纪念一下我个人<strong>blog</strong>的出生。</p>
-
-                </div>
+          <div class="post-detail">
+            <h2 class="post-title">想学很多东西，想要很多东西，也想……</h2>
+            <div class="post-date">2020-05-01</div>
+            
+              <div class="feature-container" style="background-image: url('https://boyancat.com/post-images/xiang-xue-hen-duo-dong-xi-xiang-yao-hen-duo-dong-xi-ye-xiang.png')">
               </div>
-              
-                <a class="right" href="https://boyancat.com/post/MY NEW BLOG!/">
-                  <div class="feature-container" style="background-image: url('https://boyancat.com/post-images/MY NEW BLOG!.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
+            
+            <div class="post-content" v-pre>
+              <p>######大晚上矫情一把</p>
+<hr>
+<p><strong>真的 当自己真正有喜欢的人了之后会自发地愿意把自己那糟糕的作息时间以及睡前坏习惯给慢慢改掉</strong><br>
+在他面前会保持着幼稚的心态，有什么负面情绪不会想在他面前表露出来</p>
+<p>有时候满脑子都是他一个人</p>
+<p>有时候醋意会特别重，特别想向其他人宣誓自己对他的主权</p>
+<p>但是嘛……总得把自己的资本提上来才行，加油吧</p>
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://boyancat.com/post/MY NEW BLOG!/">
+                  <h3 class="post-title">
+                    MY NEW BLOG!
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -150,6 +171,29 @@ var app = new Vue({
     hljs.initHighlightingOnLoad()
   </script>
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '053ed8d936d0e912a239',
+        clientSecret: 'c92f71ce57d46ea32cec9e13a3cab8a69531987c',
+        repo: 'boyancat.github.io',
+        owner: 'boyancat',
+        admin: ['boyancat'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

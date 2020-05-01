@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boyancat.com</id>
-    <title>音乐博衍，无极终兮</title>
-    <updated>2020-04-28T03:19:57.366Z</updated>
+    <title>音乐博衍无极终兮</title>
+    <updated>2020-05-01T16:00:06.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boyancat.com"/>
     <link rel="self" href="https://boyancat.com/atom.xml"/>
     <subtitle>博衍的小资讯站</subtitle>
     <logo>https://boyancat.com/images/avatar.png</logo>
     <icon>https://boyancat.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 音乐博衍，无极终兮</rights>
+    <rights>All rights reserved 2020, 音乐博衍无极终兮</rights>
+    <entry>
+        <title type="html"><![CDATA[想学很多东西，想要很多东西，也想……]]></title>
+        <id>https://boyancat.com/post/xiang-xue-hen-duo-dong-xi-xiang-yao-hen-duo-dong-xi-ye-xiang/</id>
+        <link href="https://boyancat.com/post/xiang-xue-hen-duo-dong-xi-xiang-yao-hen-duo-dong-xi-ye-xiang/">
+        </link>
+        <updated>2020-05-01T15:49:38.000Z</updated>
+        <content type="html"><![CDATA[<p>######大晚上矫情一把</p>
+<hr>
+<p><strong>真的 当自己真正有喜欢的人了之后会自发地愿意把自己那糟糕的作息时间以及睡前坏习惯给慢慢改掉</strong><br>
+在他面前会保持着幼稚的心态，有什么负面情绪不会想在他面前表露出来</p>
+<p>有时候满脑子都是他一个人</p>
+<p>有时候醋意会特别重，特别想向其他人宣誓自己对他的主权</p>
+<p>但是嘛……总得把自己的资本提上来才行，加油吧</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MY NEW BLOG!]]></title>
         <id>https://boyancat.com/post/MY NEW BLOG!/</id>
